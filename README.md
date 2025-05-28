@@ -168,13 +168,3 @@ To verify that scanning works:
 > This tool is for **educational and ethical** use only. The author is not responsible for any misuse or damage caused by this software.
 
 ```
-
----
-
-Let me know if you also want:
-- `requirements.txt` template
-- A log system that saves deleted file paths
-- Support for `.zip`, `.apk`, `.tar` unpacking before scan
-
-You're all set to publish your `MAL-400L` repo professionally.
-```
