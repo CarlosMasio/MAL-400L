@@ -167,4 +167,3 @@ To verify that scanning works:
 
 > This tool is for **educational and ethical** use only. The author is not responsible for any misuse or damage caused by this software.
 
-```
