@@ -57,7 +57,7 @@ nano mal_monitor.py
 Then **edit line 23** (or wherever defined) to set your path:
 
 ```python
-MALPROTOCOL_PATH = "/k0/Mal-Protocol/malprotocol.py"
+MALPROTOCOL_PATH = "/file/path/to/MAL-400L/malprotocol.py"
 ```
 
 Save and exit.
